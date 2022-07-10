@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5298b12c","path":"/resources/open-source-projects-using-nuxt.html","title":"Open source projects Using Nuxt","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"resources/open-source-projects-using-nuxt.md"}');export{e as data};
